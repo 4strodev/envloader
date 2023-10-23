@@ -1,4 +1,4 @@
-module github.com/4strodev/env-loader
+module github.com/4strodev/envloader
 
 go 1.21.3
 

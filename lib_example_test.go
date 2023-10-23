@@ -3,7 +3,7 @@ package envloader_test
 import (
 	"log"
 
-	envloader "github.com/4strodev/env-loader"
+	envloader "github.com/4strodev/envloader"
 )
 
 func ExampleMarshal() {
